@@ -1,0 +1,80 @@
+type = user_variables
+
+variable {
+  name = pointer
+  value = -20
+  reset_on_launch = false
+}
+
+variable {
+  name = idle_timer_switch
+  value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = distance
+  value = 2
+  reset_on_launch = false
+}
+
+variable {
+  name = scaledwidth
+  value = 1423.8
+  reset_on_launch = false
+}
+
+variable {
+  name = imagey
+  value = -129.22431482782855
+  reset_on_launch = false
+}
+
+variable {
+  name = idle_timer
+  value = 5
+  reset_on_launch = false
+}
+
+variable {
+  name = imagex
+  value = -33.89999999999998
+  reset_on_launch = false
+}
+
+variable {
+  name = scale
+  value = 1.0005621925509487
+  reset_on_launch = false
+}
+
+variable {
+  name = scaledheight
+  value = 798.4486296556571
+  reset_on_launch = false
+}
+
+variable {
+  name = scalex
+  value = 0.9529163738580464
+  reset_on_launch = false
+}
+
+variable {
+  name = scaley
+  value = 0.6766917293233082
+  reset_on_launch = false
+}
+
+variable {
+  name = current_pos
+  value = -21
+  reset_on_launch = false
+}
+
+variable {
+  name = step
+  value = 1
+  reset_on_launch = false
+}
+
