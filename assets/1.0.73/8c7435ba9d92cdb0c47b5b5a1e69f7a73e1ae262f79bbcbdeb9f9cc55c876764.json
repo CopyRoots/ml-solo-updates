@@ -1,0 +1,79 @@
+{
+  // ═══ DCME - Dynamic Contextual Music Engine ═══
+  // Delete this file to reset to defaults.
+  // Config version (do not edit)
+  "configVersion": 6,
+  // Master switch
+  "enabled": true,
+  // Enable verbose logging for debugging
+  "debugLogging": false,
+
+  // ── Audio Settings ──
+  // Master volume (0.0 to 1.0), stacks with vanilla Music slider
+  "masterVolume": 0.8,
+  // Fade durations in milliseconds
+  "fadeInMs": 4000,
+  "fadeOutMs": 5000,
+  // Silence between tracks (min/max in seconds, 0-3600)
+  "gapBetweenTracksSecondsMin": 60,
+  "gapBetweenTracksSecondsMax": 180,
+  // Exclude N recent tracks from random selection
+  "antiRepeatCount": 2,
+  // Fade curve: "smooth", "exponential", or "linear"
+  "fadeCurve": "smooth",
+  // Transition between contexts: "crossfade" (default), "gap" (silence between), "hybrid" (crossfade same group, gap between groups)
+  "contextTransitionMode": "crossfade",
+
+  // ── Combat Detection ──
+  "combatEnabled": true,
+  // Radius in blocks (8-64): mobs targeting you farther away do not start combat music; also the default range of nearby_entity
+  "combatDetectionRadius": 24,
+  // PVP combat lasts this many seconds after the last player-vs-player hit (1-300)
+  "pvpTimeoutSeconds": 5,
+  // Hits between players of the same scoreboard team do not start PVP combat music
+  "pvpTeamProtection": true,
+
+  // ── Boss Detection ──
+  "bossEnabled": true,
+  "bossScanIntervalTicks": 40,
+  // Detect modded bosses via boss bar HUD
+  "bossBarsEnabled": true,
+
+  // ── Third-party Music Blocking ──
+  // DCME blocks other mods from playing music (category MUSIC).
+  // ["*"] = block ALL non-DCME music. ["aquamirae"] = block specific mod. [] = block nothing.
+  "blockedMusicNamespaces": ["minecraft"],
+  // Sound IDs that bypass blocking (e.g. ["minecraft:music_disc.cat"])
+  "allowedMusicSounds": [],
+
+  // ── Context Toggles ──
+  // Each loaded context gets a toggle. Set to false to disable.
+  "contextToggles": {
+    "rain": true,
+    "combat_warden": true,
+    "overworld_night": true,
+    "nether": true,
+    "overworld_underground": true,
+    "deep_dark": true,
+    "overworld_day": true,
+    "the_end": true,
+    "menu": true,
+    "boss_ender_dragon": true,
+    "boss_wither": true,
+    "combat_generic": true,
+    "boss_elder_guardian": true,
+    "credits": true,
+    "dawn": true
+  },
+
+  // ── Time Thresholds (MC ticks 0-24000) ──
+  // Day/Night auto-expand when dawn/dusk contexts are absent.
+  "dawnStart": 22800,
+  "dawnEnd": 1000,
+  "duskStart": 11500,
+  "duskEnd": 13500,
+
+  // ── Low Health ──
+  // Threshold in half-hearts (4.0 = 2 hearts)
+  "lowHealthThreshold": 4.0
+}

@@ -15,238 +15,238 @@
       "size": 3116,
       "sha256": "1b83129ab206ae54ceca8c9acec9fce6e2e4412b655253548356873f43425076",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/1b83129ab206ae54ceca8c9acec9fce6e2e4412b655253548356873f43425076.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/1b83129ab206ae54ceca8c9acec9fce6e2e4412b655253548356873f43425076.toml"
     },
     {
       "path": "config/ares_hud-client.toml",
       "size": 33292,
       "sha256": "913777ebb266acfbc1fea02a41a0009884eae961b6c5d9efc1b83d0b5ff33528",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/913777ebb266acfbc1fea02a41a0009884eae961b6c5d9efc1b83d0b5ff33528.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/913777ebb266acfbc1fea02a41a0009884eae961b6c5d9efc1b83d0b5ff33528.toml"
     },
     {
       "path": "config/ares_hud/presets/builtin-default-dynamic.json",
       "size": 5742,
       "sha256": "3c420485a785b96527437a5ff87ee6403155968a49c8bddda0615d1c6fc32146",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/3c420485a785b96527437a5ff87ee6403155968a49c8bddda0615d1c6fc32146.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/3c420485a785b96527437a5ff87ee6403155968a49c8bddda0615d1c6fc32146.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-default.json",
       "size": 5705,
       "sha256": "817264bd2e4f254fbaff4cf1af25340e05b6d98d276329b4375722b221a6292a",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/817264bd2e4f254fbaff4cf1af25340e05b6d98d276329b4375722b221a6292a.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/817264bd2e4f254fbaff4cf1af25340e05b6d98d276329b4375722b221a6292a.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-finality_1-dynamic.json",
       "size": 5729,
       "sha256": "18595483a1a9a3c10738e54f0bfaaf63ef46ff0c7cad8cae93ec0fba0b48806f",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/18595483a1a9a3c10738e54f0bfaaf63ef46ff0c7cad8cae93ec0fba0b48806f.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/18595483a1a9a3c10738e54f0bfaaf63ef46ff0c7cad8cae93ec0fba0b48806f.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-finality_1.json",
       "size": 5708,
       "sha256": "c98b9c872603971b264c81863c5be6bb7399d3e91fbea832acca30db4d34e815",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/c98b9c872603971b264c81863c5be6bb7399d3e91fbea832acca30db4d34e815.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/c98b9c872603971b264c81863c5be6bb7399d3e91fbea832acca30db4d34e815.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-finality_2-dynamic.json",
       "size": 5791,
       "sha256": "07b9d2d6523a9ec408b8a6adb59c6c53b2872d7538ee3d2ac2e0c989d23d19df",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/07b9d2d6523a9ec408b8a6adb59c6c53b2872d7538ee3d2ac2e0c989d23d19df.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/07b9d2d6523a9ec408b8a6adb59c6c53b2872d7538ee3d2ac2e0c989d23d19df.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-finality_2.json",
       "size": 5770,
       "sha256": "bbe51f50f474a5b2f86e13430ff4248968b4503860ce752c4e96c116707f0e08",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/bbe51f50f474a5b2f86e13430ff4248968b4503860ce752c4e96c116707f0e08.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/bbe51f50f474a5b2f86e13430ff4248968b4503860ce752c4e96c116707f0e08.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-hotbar_1x9-dynamic.json",
       "size": 5742,
       "sha256": "0db736c9ce690b2007c842cf5cc9d71cf49965aef2f691929e416919069161b0",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/0db736c9ce690b2007c842cf5cc9d71cf49965aef2f691929e416919069161b0.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/0db736c9ce690b2007c842cf5cc9d71cf49965aef2f691929e416919069161b0.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-hotbar_1x9.json",
       "size": 5721,
       "sha256": "57b409de02afcb2496f1af0fae8cdbbe88b708551b08694647b7b296b0c4abc1",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/57b409de02afcb2496f1af0fae8cdbbe88b708551b08694647b7b296b0c4abc1.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/57b409de02afcb2496f1af0fae8cdbbe88b708551b08694647b7b296b0c4abc1.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-hotbar_1x9_vertical-dynamic.json",
       "size": 5779,
       "sha256": "064230ed6e802ced4872b01429102c845f39bb87d52bf7fd1e46fcf95cbafa46",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/064230ed6e802ced4872b01429102c845f39bb87d52bf7fd1e46fcf95cbafa46.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/064230ed6e802ced4872b01429102c845f39bb87d52bf7fd1e46fcf95cbafa46.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-hotbar_1x9_vertical.json",
       "size": 5758,
       "sha256": "87e3452b117204c91006d7dd39b74d6fe87947ba289695577feccb65aca80bae",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/87e3452b117204c91006d7dd39b74d6fe87947ba289695577feccb65aca80bae.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/87e3452b117204c91006d7dd39b74d6fe87947ba289695577feccb65aca80bae.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-hotbar_3x3-dynamic.json",
       "size": 5753,
       "sha256": "a8ab707797db43ceed5a13460183bf2b05083abf91c2815bf2bb59d68534e399",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/a8ab707797db43ceed5a13460183bf2b05083abf91c2815bf2bb59d68534e399.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/a8ab707797db43ceed5a13460183bf2b05083abf91c2815bf2bb59d68534e399.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-hotbar_3x3.json",
       "size": 5732,
       "sha256": "d08e299a10e649404f2fd8cee5a3f68162daee5ecb3c49426eed3a61f70d876c",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/d08e299a10e649404f2fd8cee5a3f68162daee5ecb3c49426eed3a61f70d876c.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/d08e299a10e649404f2fd8cee5a3f68162daee5ecb3c49426eed3a61f70d876c.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-thirst_additional-dynamic.json",
       "size": 5758,
       "sha256": "9b9d7248ca61aff3a0ab713cb4475d31315f468f9d79b06bd471656f18f64748",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/9b9d7248ca61aff3a0ab713cb4475d31315f468f9d79b06bd471656f18f64748.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/9b9d7248ca61aff3a0ab713cb4475d31315f468f9d79b06bd471656f18f64748.json"
     },
     {
       "path": "config/ares_hud/presets/builtin-thirst_additional.json",
       "size": 5737,
       "sha256": "b3861ca5a878ede0fde1f300d679f5fbff623c34d86b6d0470fffb74117f26ac",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/b3861ca5a878ede0fde1f300d679f5fbff623c34d86b6d0470fffb74117f26ac.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/b3861ca5a878ede0fde1f300d679f5fbff623c34d86b6d0470fffb74117f26ac.json"
     },
     {
       "path": "config/combat_evolution-client.toml",
       "size": 946,
       "sha256": "d7931be8dc0c51d988d8625f83603b4705b2218e6699dc88078b791a2172a371",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/d7931be8dc0c51d988d8625f83603b4705b2218e6699dc88078b791a2172a371.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/d7931be8dc0c51d988d8625f83603b4705b2218e6699dc88078b791a2172a371.toml"
     },
     {
       "path": "config/combat_evolution-common.toml",
       "size": 681,
       "sha256": "5e701eccd9794fd370f06b066b4ea5185037571c27e65a991f1d2c818d1dd03d",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/5e701eccd9794fd370f06b066b4ea5185037571c27e65a991f1d2c818d1dd03d.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/5e701eccd9794fd370f06b066b4ea5185037571c27e65a991f1d2c818d1dd03d.toml"
     },
     {
       "path": "config/curios-client.toml",
       "size": 766,
       "sha256": "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d.toml"
     },
     {
       "path": "config/dcme.json",
       "size": 2694,
       "sha256": "8c7435ba9d92cdb0c47b5b5a1e69f7a73e1ae262f79bbcbdeb9f9cc55c876764",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/8c7435ba9d92cdb0c47b5b5a1e69f7a73e1ae262f79bbcbdeb9f9cc55c876764.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/8c7435ba9d92cdb0c47b5b5a1e69f7a73e1ae262f79bbcbdeb9f9cc55c876764.json"
     },
     {
       "path": "config/dynamic_difficulty/client.toml",
       "size": 6554,
       "sha256": "e4363715f8cbbace38baff2b1c17d538e339ff889408afff52f5e54442af98a7",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/e4363715f8cbbace38baff2b1c17d538e339ff889408afff52f5e54442af98a7.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/e4363715f8cbbace38baff2b1c17d538e339ff889408afff52f5e54442af98a7.toml"
     },
     {
       "path": "config/epicfight-client.toml",
       "size": 2834,
       "sha256": "a82c369e0cdbbee9b6001648e996e0422c510ea1db3faeaae592bc3b49cd6c13",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/a82c369e0cdbbee9b6001648e996e0422c510ea1db3faeaae592bc3b49cd6c13.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/a82c369e0cdbbee9b6001648e996e0422c510ea1db3faeaae592bc3b49cd6c13.toml"
     },
     {
       "path": "config/epicfight-common.toml",
       "size": 671,
       "sha256": "1f5db6c278c160c98667427e34dc5346d33e2f03bf0f39d400b7ec1fc2fcb37d",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/1f5db6c278c160c98667427e34dc5346d33e2f03bf0f39d400b7ec1fc2fcb37d.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/1f5db6c278c160c98667427e34dc5346d33e2f03bf0f39d400b7ec1fc2fcb37d.toml"
     },
     {
       "path": "config/healthbars-client.toml",
       "size": 10547,
       "sha256": "4b669e3ca9bb2102ff67b6c3e03cea7a681d25c5278137eadad6f0644c31e3fb",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/4b669e3ca9bb2102ff67b6c3e03cea7a681d25c5278137eadad6f0644c31e3fb.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/4b669e3ca9bb2102ff67b6c3e03cea7a681d25c5278137eadad6f0644c31e3fb.toml"
     },
     {
       "path": "config/iris.properties",
       "size": 305,
       "sha256": "c17e2a328c16df7b71e4f9c5b69a9da36c0a22d96608f7e347b9168325ba55a5",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/c17e2a328c16df7b71e4f9c5b69a9da36c0a22d96608f7e347b9168325ba55a5.properties"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/c17e2a328c16df7b71e4f9c5b69a9da36c0a22d96608f7e347b9168325ba55a5.properties"
     },
     {
       "path": "config/lamblanterns-client.toml",
       "size": 802,
       "sha256": "dd2d402afb4632a700264c0ce9698ead98b89c0f40a220a05795faec470ba5f6",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/dd2d402afb4632a700264c0ce9698ead98b89c0f40a220a05795faec470ba5f6.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/dd2d402afb4632a700264c0ce9698ead98b89c0f40a220a05795faec470ba5f6.toml"
     },
     {
       "path": "config/mlsolo-pack-keybindings.json",
       "size": 10792,
       "sha256": "1eb8c4a8f987027b9050ec75d5cb50ecaafc63b8087a0a11888297e071394605",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/1eb8c4a8f987027b9050ec75d5cb50ecaafc63b8087a0a11888297e071394605.json"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/1eb8c4a8f987027b9050ec75d5cb50ecaafc63b8087a0a11888297e071394605.json"
     },
     {
       "path": "config/parcool-client.toml",
       "size": 9680,
       "sha256": "abb4ed0b0d27660140baeb6d5c38a7b9e5cf3ec8b478f403b4c6256204f2b077",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/abb4ed0b0d27660140baeb6d5c38a7b9e5cf3ec8b478f403b4c6256204f2b077.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/abb4ed0b0d27660140baeb6d5c38a7b9e5cf3ec8b478f403b4c6256204f2b077.toml"
     },
     {
       "path": "config/reviveme/reviveme-common.toml",
       "size": 13398,
       "sha256": "f3874ab62972f56d8c02f73cac1b3b1fba500c5393f6f9ef01e21826819bfc21",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/f3874ab62972f56d8c02f73cac1b3b1fba500c5393f6f9ef01e21826819bfc21.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/f3874ab62972f56d8c02f73cac1b3b1fba500c5393f6f9ef01e21826819bfc21.toml"
     },
     {
       "path": "config/shouldersurfing-client.toml",
       "size": 20434,
       "sha256": "f7d3bcc51c6409926d9206a3065995f58e5d62a26a2edafbbaa6839421bfce5e",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/f7d3bcc51c6409926d9206a3065995f58e5d62a26a2edafbbaa6839421bfce5e.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/f7d3bcc51c6409926d9206a3065995f58e5d62a26a2edafbbaa6839421bfce5e.toml"
     },
     {
       "path": "config/sophisticatedbackpacks-common.toml",
       "size": 118,
       "sha256": "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f.toml"
     },
     {
       "path": "config/sophisticatedcore-client.toml",
       "size": 478,
       "sha256": "12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f.toml"
     },
     {
       "path": "config/sophisticatedcore-common.toml",
       "size": 108,
       "sha256": "6928810eacfc20c8568759fc8c142df5f643e790f5c97c082719d65656274ff8",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/6928810eacfc20c8568759fc8c142df5f643e790f5c97c082719d65656274ff8.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/6928810eacfc20c8568759fc8c142df5f643e790f5c97c082719d65656274ff8.toml"
     },
     {
       "path": "config/ssrcamerafixes-client.toml",
       "size": 436,
       "sha256": "a1b7cd9dcc6cea18bf9efe50d07b8a443100d5d3eb9eba5d22122fe587b589ea",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/a1b7cd9dcc6cea18bf9efe50d07b8a443100d5d3eb9eba5d22122fe587b589ea.toml"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/a1b7cd9dcc6cea18bf9efe50d07b8a443100d5d3eb9eba5d22122fe587b589ea.toml"
     },
     {
       "path": "mods/CombatEvolution-2.3.2-NeoForge-1.21.1.jar",
@@ -298,14 +298,14 @@
       "url": "https://edge.forgecdn.net/files/6423/863/Iceberg-1.21.1-neoforge-1.3.2.jar"
     },
     {
-      "path": "mods/ImmediatelyFast-NeoForge-1.6.15\u002B1.21.1.jar",
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
       "size": 368896,
       "sha256": "7d7b1d7b9f71d5303e42b2fa45f222a5ab06e0ef5982abb6da5dd9cc449b3702",
       "category": "mod",
       "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/EJzmEPZV/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar"
     },
     {
-      "path": "mods/L_Ender\u0027s Cataclysm 1.21.1-3.33.jar",
+      "path": "mods/L_Ender's Cataclysm 1.21.1-3.33.jar",
       "size": 73375667,
       "sha256": "371956d0c2e3b56729ee93b955e936875d210e372fe734cdb74326d89ef79875",
       "category": "mod",
@@ -354,7 +354,7 @@
       "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/2prKITKh/YungsApi-1.21.1-NeoForge-5.1.9.jar"
     },
     {
-      "path": "mods/[1.6.1] Nimbu\u0027s Scabbards.jar",
+      "path": "mods/[1.6.1] Nimbu's Scabbards.jar",
       "size": 49692,
       "sha256": "f96b552e3dca5f2ec64ecc42ba68afb9a05421a78e9301eeeb8858b2d645487b",
       "category": "mod",
@@ -452,7 +452,7 @@
       "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar"
     },
     {
-      "path": "mods/curios-neoforge-9.5.1\u002B1.21.1 (1).jar",
+      "path": "mods/curios-neoforge-9.5.1+1.21.1 (1).jar",
       "size": 410690,
       "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
       "category": "mod",
@@ -480,18 +480,18 @@
       "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/FOICZ7Jk/dreamdisplays-neoforge-1.21.1-1.9.6.jar"
     },
     {
-      "path": "mods/drinkbeer-refill-1.21.1-neoforge-1.4.1\u002Bneoforge.jar",
+      "path": "mods/drinkbeer-refill-1.21.1-neoforge-1.4.1+neoforge.jar",
       "size": 1681341,
       "sha256": "812e1d011d6a323594bf2a6856a2f376c56a74d6a50eb0c7afdad67b14c9bc52",
       "category": "mod",
       "url": "https://cdn.modrinth.com/data/RZwVw5iA/versions/VnFS8aUY/drinkbeer-refill-1.21.1-neoforge-1.4.1%2Bneoforge.jar"
     },
     {
-      "path": "mods/dynamic_difficulty-neoforge-1.3.7\u002B1.21.1.jar",
+      "path": "mods/dynamic_difficulty-neoforge-1.3.7+1.21.1.jar",
       "size": 333892,
       "sha256": "62091e547d24a7406fb29efc8cca7850e2dfc7791f30c6d4c5d69dae355ea29a",
       "category": "mod",
-      "url": "https://maven.muon.rip/releases/dev/muon/dynamic_difficulty/dynamic_difficulty-neoforge/1.3.7\u002B1.21.1/dynamic_difficulty-neoforge-1.3.7\u002B1.21.1.jar"
+      "url": "https://maven.muon.rip/releases/dev/muon/dynamic_difficulty/dynamic_difficulty-neoforge/1.3.7+1.21.1/dynamic_difficulty-neoforge-1.3.7+1.21.1.jar"
     },
     {
       "path": "mods/easy_npc-neoforge-1.21.1-7.17.1.jar",
@@ -508,7 +508,7 @@
       "url": "https://cdn.modrinth.com/data/uTGjf7vA/versions/VqoJoXmC/easy_npc_config_ui-neoforge-1.21.1-7.17.1.jar"
     },
     {
-      "path": "mods/effortlessbuilding-4.2\u002B1.21.1.jar",
+      "path": "mods/effortlessbuilding-4.2+1.21.1.jar",
       "size": 958842,
       "sha256": "1fedbc3f6866541a96da24e75649ca5f9599b37e15a0b32a9c920ac3dbcf5f90",
       "category": "mod",
@@ -599,7 +599,7 @@
       "url": "https://edge.forgecdn.net/files/8724/782/ftb-teams-neoforge-2101.1.11.jar"
     },
     {
-      "path": "mods/fzzy_config-0.7.7\u002B1.21\u002Bneoforge.jar",
+      "path": "mods/fzzy_config-0.7.7+1.21+neoforge.jar",
       "size": 2392693,
       "sha256": "26af871cacd134ce52610384bbdd362a018707444eb2d498e4833063f378cf85",
       "category": "mod",
@@ -620,7 +620,7 @@
       "url": "https://cdn.modrinth.com/data/J07on8wS/versions/nSlyXbwa/invocore-1.21.1-5.2.4.jar"
     },
     {
-      "path": "mods/iris-neoforge-1.8.14-beta.1\u002Bmc1.21.1.jar",
+      "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "size": 2540723,
       "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
       "category": "mod",
@@ -662,7 +662,7 @@
       "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar"
     },
     {
-      "path": "mods/lambdynamiclights-4.8.11\u002B1.21.1.jar",
+      "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
       "size": 2023375,
       "sha256": "913b0358b1031828f1e060ea0ee361232dc2a1c82464f488a0a920739ce7c763",
       "category": "mod",
@@ -676,7 +676,7 @@
       "url": "https://cdn.modrinth.com/data/XzuI5IDa/versions/H8iHSQhM/lamblanterns-1.2.0.jar"
     },
     {
-      "path": "mods/lidless-neoforge-0.2.2\u002Bmc1.21-1.21.1.jar",
+      "path": "mods/lidless-neoforge-0.2.2+mc1.21-1.21.1.jar",
       "size": 107538,
       "sha256": "5f19b4083228b64ce9226adaec357f1ac73edafe78a734cd6f4cdfda027595aa",
       "category": "mod",
@@ -715,42 +715,42 @@
       "size": 44178,
       "sha256": "f2478bc0d97f1787a65273077c9cb40df2af84970cc781e11bc1018a8cd483c7",
       "category": "mod",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/f2478bc0d97f1787a65273077c9cb40df2af84970cc781e11bc1018a8cd483c7.jar"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/f2478bc0d97f1787a65273077c9cb40df2af84970cc781e11bc1018a8cd483c7.jar"
     },
     {
       "path": "mods/mlsolo-backslots-epicfight-1.0.0.jar",
       "size": 6470,
       "sha256": "36b946a3442f110af0d6e0915731dcdf7fc7cec8c25f56a8e3aed057a70205dc",
       "category": "mod",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/36b946a3442f110af0d6e0915731dcdf7fc7cec8c25f56a8e3aed057a70205dc.jar"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/36b946a3442f110af0d6e0915731dcdf7fc7cec8c25f56a8e3aed057a70205dc.jar"
     },
     {
       "path": "mods/mlsolo-backslots-ranged-rules-1.0.0.jar",
       "size": 3784,
       "sha256": "dba49fea1f32085a9fd88181ad60139c65b8aeed3909bc3c9a6737566020fd76",
       "category": "mod",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/dba49fea1f32085a9fd88181ad60139c65b8aeed3909bc3c9a6737566020fd76.jar"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/dba49fea1f32085a9fd88181ad60139c65b8aeed3909bc3c9a6737566020fd76.jar"
     },
     {
       "path": "mods/mlsolo-pack-client-settings-1.0.0.jar",
       "size": 11580,
       "sha256": "06f7795e92c11b47a25382ad11286e650647c7d707ae8dd4beac77e944147546",
       "category": "mod",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/06f7795e92c11b47a25382ad11286e650647c7d707ae8dd4beac77e944147546.jar"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/06f7795e92c11b47a25382ad11286e650647c7d707ae8dd4beac77e944147546.jar"
     },
     {
       "path": "mods/mlsolo-railbound-infinite-steam-1.0.2.jar",
       "size": 4142,
       "sha256": "277cc4e5e8bfbfed71c06467e6efb96375877d3f4b292c9569553044fd0f0c77",
       "category": "mod",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/277cc4e5e8bfbfed71c06467e6efb96375877d3f4b292c9569553044fd0f0c77.jar"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/277cc4e5e8bfbfed71c06467e6efb96375877d3f4b292c9569553044fd0f0c77.jar"
     },
     {
       "path": "mods/mlsolo-stamina-switch-1.0.0.jar",
       "size": 4749,
       "sha256": "07fed33709c0515330d4c0fd4af1fbf1f10c80b8201c05f29bdb1728b5fed283",
       "category": "mod",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/07fed33709c0515330d4c0fd4af1fbf1f10c80b8201c05f29bdb1728b5fed283.jar"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/07fed33709c0515330d4c0fd4af1fbf1f10c80b8201c05f29bdb1728b5fed283.jar"
     },
     {
       "path": "mods/movingelevators-1.4.12-neoforge-mc1.21.jar",
@@ -781,7 +781,7 @@
       "url": "https://edge.forgecdn.net/files/7922/741/p1nero_bow-neoforge1.21.1-21.16.1.0-neoforge.jar"
     },
     {
-      "path": "mods/player-animation-lib-forge-2.0.4\u002B1.21.1.jar",
+      "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
       "size": 203149,
       "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
       "category": "mod",
@@ -809,7 +809,7 @@
       "url": "https://cdn.modrinth.com/data/hqQqvaa4/versions/8tfcI2wU/puffish_skills-0.19.2-1.21-neoforge.jar"
     },
     {
-      "path": "mods/puzzleslib-v21.1.65-mc1.21.1\u002Bneoforge.jar",
+      "path": "mods/puzzleslib-v21.1.65-mc1.21.1+neoforge.jar",
       "size": 1451117,
       "sha256": "5317fe131954accbe884b079f75713d6f9024b291085314d6c23b3a697fc2771",
       "category": "mod",
@@ -851,7 +851,7 @@
       "url": "https://cdn.modrinth.com/data/EL8fq1gi/versions/1vVdqzCW/setworldspawnpoint-1.21.1-4.0.jar"
     },
     {
-      "path": "mods/sodium-neoforge-0.8.13\u002Bmc1.21.1.jar",
+      "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
       "size": 1292934,
       "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d",
       "category": "mod",
@@ -911,7 +911,7 @@
       "size": 77927,
       "sha256": "b994323ccccdd94ac8c8a23c14584f203cdbe0951c53d3e8f31a569ba8f5e6f4",
       "category": "mod",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/b994323ccccdd94ac8c8a23c14584f203cdbe0951c53d3e8f31a569ba8f5e6f4.jar"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/b994323ccccdd94ac8c8a23c14584f203cdbe0951c53d3e8f31a569ba8f5e6f4.jar"
     },
     {
       "path": "mods/twilightforest-1.21.1-4.8.3345-universal.jar",
@@ -942,7 +942,7 @@
       "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/SnQ4SoDe/xaeroworldmap-neoforge-1.21.1-1.47.0.jar"
     },
     {
-      "path": "mods/yet_another_config_lib_v3-3.8.2\u002B1.21.1-neoforge.jar",
+      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
       "size": 1118651,
       "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
       "category": "mod",
@@ -953,28 +953,28 @@
       "size": 53240,
       "sha256": "9d9f9e74ab1f94b833eca0ee5c763d264a7684445eca947b404fe0a2e2178a7a",
       "category": "resourcepack",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/9d9f9e74ab1f94b833eca0ee5c763d264a7684445eca947b404fe0a2e2178a7a.zip"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/9d9f9e74ab1f94b833eca0ee5c763d264a7684445eca947b404fe0a2e2178a7a.zip"
     },
     {
       "path": "resourcepacks/ML-SOLO-Slot-Icons/assets/backslots/textures/gui/slot/back.png",
       "size": 192,
       "sha256": "f42b36a101f4d468c0ee89e55cacd15e7b6c84c57a42e27c0ba732cfa2e76b5e",
       "category": "resourcepack",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/f42b36a101f4d468c0ee89e55cacd15e7b6c84c57a42e27c0ba732cfa2e76b5e.png"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/f42b36a101f4d468c0ee89e55cacd15e7b6c84c57a42e27c0ba732cfa2e76b5e.png"
     },
     {
       "path": "resourcepacks/ML-SOLO-Slot-Icons/assets/backslots/textures/slot/back.png",
       "size": 192,
       "sha256": "f42b36a101f4d468c0ee89e55cacd15e7b6c84c57a42e27c0ba732cfa2e76b5e",
       "category": "resourcepack",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/f42b36a101f4d468c0ee89e55cacd15e7b6c84c57a42e27c0ba732cfa2e76b5e.png"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/f42b36a101f4d468c0ee89e55cacd15e7b6c84c57a42e27c0ba732cfa2e76b5e.png"
     },
     {
       "path": "resourcepacks/ML-SOLO-Slot-Icons/pack.mcmeta",
       "size": 119,
       "sha256": "20fe0007a4b61e306ea266f97a9bd6b601d321b9555da1ec73c6a737ef482d2f",
       "category": "resourcepack",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/20fe0007a4b61e306ea266f97a9bd6b601d321b9555da1ec73c6a737ef482d2f.mcmeta"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/20fe0007a4b61e306ea266f97a9bd6b601d321b9555da1ec73c6a737ef482d2f.mcmeta"
     },
     {
       "path": "resourcepacks/dcme-lrm-resourcepack.zip",
@@ -1002,7 +1002,7 @@
       "size": 100,
       "sha256": "920e4e2dba086f1978f376b739ae0f05a712be844e361e7c962b9aa58cd98f75",
       "category": "config",
-      "url": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.73/920e4e2dba086f1978f376b739ae0f05a712be844e361e7c962b9aa58cd98f75.txt"
+      "url": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/assets/1.0.73/920e4e2dba086f1978f376b739ae0f05a712be844e361e7c962b9aa58cd98f75.txt"
     }
   ]
 }
