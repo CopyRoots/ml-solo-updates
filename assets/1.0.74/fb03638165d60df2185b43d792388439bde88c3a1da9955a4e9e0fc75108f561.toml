@@ -1,0 +1,89 @@
+#When the cinematic triggers
+[trigger]
+	#Run on multiplayer servers too.
+	#Off by default: a camera that takes over while you are stood in
+	#the open on someone else's server is a good way to get killed,
+	#and some servers treat idling as a punishable offence.
+	onServers = true
+	#Seconds of no input before the cinematic starts.
+	#This is also the re-arm delay: after it ends you get the full
+	#time again before it can trigger a second time.
+	# Default: 20
+	# Range: 1 ~ 3600
+	afkSeconds = 600
+	#Seconds a shot is held before cutting to the next perspective.
+	# Default: 7.5
+	# Range: 1.0 ~ 60.0
+	shotSeconds = 7.5
+	#Seconds the camera takes to glide back to you when you return.
+	#You get control back instantly either way - this is only the
+	#visual catch-up. 0 = hard cut.
+	# Default: 0.35
+	# Range: 0.0 ~ 2.0
+	returnSeconds = 0.35
+
+#Where the camera goes
+[camera]
+	#ANGLES    = fixed viewpoints that cut to a new one every few
+	#            seconds: close, wide, from behind, up in a treetop.
+	#            The camera itself never moves or rotates.
+	#FIXED     = a single fixed viewpoint for the whole time.
+	#CINEMATIC = moving shots - orbits, cranes and push-ins.
+	#Allowed Values: ANGLES, FIXED, CINEMATIC
+	mode = "ANGLES"
+	#How often a shot looks out at the world instead of at you.
+	#0.0 = never, 1.0 = always. Kept low on purpose.
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	landscapeChance = 0.15
+	#FIXED only: how far the camera sits from you, in blocks.
+	# Default: 4.0
+	# Range: 0.5 ~ 40.0
+	fixedDistance = 4.0
+	#FIXED only: camera height above your feet, in blocks.
+	# Default: 2.0
+	# Range: -5.0 ~ 40.0
+	fixedHeight = 2.0
+	#FIXED only: where the camera sits, in degrees around you.
+	#0 = straight behind you, 180 = straight in front, facing you.
+	# Default: 155.0
+	# Range: 0.0 ~ 360.0
+	fixedAngle = 155.0
+
+#Music played during the cinematic
+[music]
+	playMusic = true
+	#Restart the track when it ends.
+	loopMusic = true
+	# Default: 0.7
+	# Range: 0.0 ~ 1.0
+	volume = 0.7
+	#Shown on the title card. Purely cosmetic.
+	trackTitle = "AFK Theme"
+
+#Visuals
+[visuals]
+	#Colour grade shader applied while the cinematic runs.
+	#OFF       = no shader.
+	#CINEMATIC = teal shadows, warm highlights, filmic contrast.
+	#WARM      = golden hour.
+	#COLD      = moody blue, heavy vignette.
+	#VIVID     = punchy and saturated.
+	#NOIR      = near black and white, high contrast.
+	#Allowed Values: OFF, CINEMATIC, WARM, COLD, VIVID, NOIR
+	grade = "CINEMATIC"
+	#Apply the grade even when a shaderpack (Iris) is installed.
+	#Off by default - shaderpacks grade the image themselves, and
+	#stacking both crushes the contrast.
+	forceGrade = false
+	#Black cinematic bars top and bottom.
+	letterbox = true
+	#Height of each bar as a fraction of the screen.
+	#0.12 puts a 16:9 screen at roughly 2.39:1 - proper cinemascope.
+	# Default: 0.12
+	# Range: 0.0 ~ 0.35
+	letterboxHeight = 0.12
+	#Overlay text with your name, the track and the shot.
+	titleCard = false
+	#Hide hotbar, health, chat and crosshair while the cinematic runs.
+	hideHud = true
