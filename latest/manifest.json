@@ -1,5 +1,5 @@
 {
-  "packVersion": "1.0.77",
-  "manifestUrl": "https://raw.githubusercontent.com/CopyRoots/ml-solo-updates/main/latest/pack-manifest-1.0.77-r1.json",
-  "manifestSha256": "1b3121fa2d9aae81a343b729b13d6f3586802c8aa975312b238d8bafa35e8a61"
+  "packVersion": "1.0.78",
+  "manifestUrl": "https://github.com/CopyRoots/ml-solo-updates/releases/download/pack-1.0.78/manifest.json",
+  "manifestSha256": "e2cb5738dd5857e0905cc2a554e5c881630a48c6c2e2b78d4024cd1ffb9bbf0d"
 }
